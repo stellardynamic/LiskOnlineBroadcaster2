@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LiskOnlineBroadcasterApp.iml" filepath="$PROJECT_DIR$/LiskOnlineBroadcasterApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liskonlinebroadcaster/liskonlinebroadcaster.iml" filepath="$PROJECT_DIR$/liskonlinebroadcaster/liskonlinebroadcaster.iml" />
+    </modules>
+  </component>
+</project>
