@@ -8,7 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/liskonlinebroadcaster" />
+            <option value="$PROJECT_DIR$/liskonlinebroadcaster2" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

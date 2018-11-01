@@ -4,6 +4,7 @@
 
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_PROFILE"/>
 
     <application
         android:allowBackup="true"
@@ -11,21 +12,18 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme">
-        <activity
-            android:name="lisksnake.liskonlinebroadcaster.MainActivity"
-            android:label="@string/app_name"
-            android:theme="@style/AppTheme.NoActionBar">
+        android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
+        <activity android:name=".WelcomeActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="lisksnake.liskonlinebroadcaster.AboutActivity">
-        </activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".QRScanActivity" />
+        <activity android:name=".SettingsActivity"></activity>
+        <activity android:name=".AboutActivity"></activity>
     </application>
-
 
 </manifest>

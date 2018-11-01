@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Lisk Online Broadcaster</string>
     <string name="action_about">About</string>
+    <string name="continue_with">Continue with:</string>
 </resources>

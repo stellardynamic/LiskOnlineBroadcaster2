@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LiskOnlineBroadcasterApp.iml" filepath="$PROJECT_DIR$/LiskOnlineBroadcasterApp.iml" />
-      <module fileurl="file://D:\LiskProjects\LiskOnlineBroadcasterApp\LiskOnlineBroadcasterApp.iml" filepath="D:\LiskProjects\LiskOnlineBroadcasterApp\LiskOnlineBroadcasterApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/liskonlinebroadcaster/liskonlinebroadcaster.iml" filepath="$PROJECT_DIR$/liskonlinebroadcaster/liskonlinebroadcaster.iml" />
-      <module fileurl="file://D:\LiskProjects\LiskOnlineBroadcasterApp\liskonlinebroadcaster\liskonlinebroadcaster.iml" filepath="D:\LiskProjects\LiskOnlineBroadcasterApp\liskonlinebroadcaster\liskonlinebroadcaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LiskOnlineBroadcaster2.iml" filepath="$PROJECT_DIR$/LiskOnlineBroadcaster2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liskonlinebroadcaster2/liskonlinebroadcaster2.iml" filepath="$PROJECT_DIR$/liskonlinebroadcaster2/liskonlinebroadcaster2.iml" />
     </modules>
   </component>
 </project>
